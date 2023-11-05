@@ -1,0 +1,7 @@
+# Arquivos gerados pelo TypeScript
+/dist/
+*.js
+*.js.map
+
+# Dependências geradas pelo npm
+/node_modules/
